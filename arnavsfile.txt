@@ -1,3 +1,7 @@
 Why Do You Like Oranges?
 
+<<<<<<< HEAD
 thomas: actually I hate them. An orange killed my purple.
+=======
+They represent a Lovely flavor and a Lovely color and a Lovely experience.
+>>>>>>> eb6452ce76d6b5c6d2a2e834de3dac1c50a1a2c8
